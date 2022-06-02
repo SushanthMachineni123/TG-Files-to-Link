@@ -1,12 +1,11 @@
 {
- "name": "TG Files to Link",
- "description": "Telegram files to Direct link!!",
+ "name": "PokeSensei Files Store Bot",
+ "description": "PokeSensei Files!!",
  "logo": "https://telegra.ph/file/c3d25aa057a3aa2282d50.png",
  "keywords": [
    "telegram",
    "FiletoLinkBot"
   ],
- "repository": "https://github.com/TGExplore/TG-Files-to-Link",
  "env": {
    "TG_API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
@@ -30,7 +29,7 @@
       "value": ""
   },
    "TG_START_MESG": {
-      "description": "Set /start Message",
+      "description": "Nothing.",
       "value": ""
   }
  }
